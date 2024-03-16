@@ -28,7 +28,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Awangmks/dragontea.git"
+    "url": "https://github.com/Awangmks/dragontea"
   },
   "author": "",
   "license": "ISC",
